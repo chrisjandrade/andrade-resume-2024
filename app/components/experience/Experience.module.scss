@@ -1,0 +1,52 @@
+
+.Experience {
+  .ExperienceRecord {
+    margin-top: 24px;
+
+    .header {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: bold;
+      text-transform: uppercase;
+      border-bottom: 1px dotted rgba($color: #000000, $alpha: 0.7);
+      .title { font-size: 20px; }
+      .company { 
+        font-size: 16px; 
+        .companyInfo {
+          float: right;
+          i { margin-left: 8px }
+          font-size: 12px;
+        }
+      }
+    }
+
+    .whenWhere {
+      font-size: 12px;
+      i { margin-right: 8px; }
+      display: flex;
+
+      .where { margin-left: 8px; }
+    }
+    
+    .Project {
+      margin-top: 6px;
+
+      .projectName {
+        font-size: 16px;
+      }
+
+      .projectInfo {
+        float: right;
+        i { margin-left: 8px }
+        font-size: 12px;
+      }
+
+      ul {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 12;
+
+        li { font-size: 13px; }
+      }
+    }
+  }
+}

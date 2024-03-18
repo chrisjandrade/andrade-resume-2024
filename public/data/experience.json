@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Principal Software Engineer",
+    "company": "NS2 Mission",
+    "from": "Aug 2018",
+    "to": "Present",
+    "where": "Chantilly, VA",
+    "projects": [
+      {
+        "title": "Spectral",
+        "details": [
+          "UI Developer Supporting Spectral"
+        ],
+        "from": "Mar 2024",
+        "to": "Present",
+        "where": "Chantilly, VA"
+      },
+      {
+        "title": "DSS",
+        "details": [
+          "Majority contributer to DSS User Interface using Angular.",
+          "Developed custom visualizations using D3: timelines, maps, other visualizations.",
+          "Developed infrastructure to conduct e2e testing using protractor.",
+          "Developed state-management paradigm for DSS.",
+          "Mentor Developers, and held many Brown Bag lunches on JavaScript/TypesScript related topics."
+        ],
+        "from": "Dec 2018",
+        "to": "Mar 2024",
+        "where": "Chantilly, VA"
+      },
+      {
+        "title": "Intern Project",
+        "details": [
+          "Helped interns develop a system to manage HR personnel data with Angular and Java.",
+          "Introduced Docker and Containerization to project.",
+          "Mentoring interns with Angular Development, and Docker."
+        ],
+        "from": "Aug 2018",
+        "to": "Dec 2018",
+        "where": "Chantilly, VA"
+      },
+      {
+        "title": "Hyperledger Topology Visualization",
+        "details": [
+          "Visualized hyper ledger network topology visualization for Silkwave/JICD4.2 Research Project.",
+          "This project used blockchain technologies, which was visualized using the VisJS library."
+        ],
+        "from": "Oct 2018 (est)",
+        "to": "Nov 2018 (est)",
+        "where": "Chantilly, VA"
+      }
+    ]
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "Blue Ridge Dynamics",
+    "from": "Oct 2016",
+    "to": "Jul 2018",
+    "where": "Fairfax, VA",
+    "projects": [
+      {
+        "title": "Anvil User Interface",
+        "details": [
+          "Developed User Interface for Anvil Team to manage hardware.",
+          "Worked directly with customer to gather feedback, and develop software in an iterative manner."
+        ],
+        "from": "Apr 2018 (est)",
+        "to": "Jul 2018",
+        "where": "Fairfax, VA"
+      },
+      {
+        "title": "Blue Lake",
+        "details": [
+          "Developed a content management system for the ingestion and analysis of collected enemy media.",
+          "Worked with other Darpa collaborators to integrate the latest machine learning technologies.",
+          "Deployed prototype to Ft. Brag users, gathered feedback and iterated on developing Blue Lake.",
+          "Indexed the collected enemy media with elastic search so that they could quickly be triaged and dispositioned."
+        ],
+        "from": "Jan 2017 (est)",
+        "to": "Apr 2018 (est)",
+        "where": "Fairfax, VA"
+      },
+      {
+        "title": "Butler",
+        "details": [
+          "Developed UI for Darpa Butler project to display profiles for dark-web collected entities"
+        ],
+        "from": "Oct 2016 (est)",
+        "to": "Jan 2017 (est)"
+      }
+    ]
+  },
+  {
+    "title": "Senior Software Engineer Subject Matter Expert",
+    "company": "Probity",
+    "from": "Oct 2015",
+    "to": "Oct 2016",
+    "where": "Herndon, VA",
+    "projects": [
+      {
+        "title": "Acacia",
+        "details": [
+          "Developed Acacia, an audio focused content analytical tool in with NodeJS, Node Native (NAN), and C.",
+          "The Acacia pipeline needed to run faster than real-time to be responsive to the user.",
+          "Developed C/C++ NAN addons to support hardware USB foot pedal input.",
+          "Developed C/C++ NAN addons to perform audio stretch using the soundtouch library.",
+          "Developed Node libraries for: adjusting audio gain, interleaving audio files, and generating waveform SVG files.",
+          "Integrated Voice Activity Detection, and Voice filtering libraries developed by partner into Acacia"
+        ],
+        "from": "Oct 2015",
+        "to": "Oct 2016",
+        "where": "Herndon, VA"
+      }
+    ]
+  },
+  {
+    "title": "Lead Developer / Senior Software Engineer",
+    "company": "CACI",
+    "from": "Jan 2014",
+    "to": "Jan 2015",
+    "where": "Sterling, VA",
+    "projects": [
+      {
+        "title": "Bedrock - DCTC Tasking Team",
+        "details": [
+          "Lead developer for the DCTC Tasking Team which converted the legacy Ruby application into AngularJS.",
+          "Developed role-based access control for Tasking application.",
+          "Planned spring release schedule, and coordinated team developers."
+        ],
+        "from": "July 2015",
+        "to": "Oct 2015",
+        "where": "Sterling, VA"
+      },
+      {
+        "title": "Bedrock",
+        "details": [
+          "Developed the Bedrock advanced search capability with ElasticJS, Angular and Elastic Search.",
+          "Developed initialization and error handling framework for the user interface.",
+          "Introduced Karma/Jasmine unit testing into Bedrock."
+        ],
+        "from": "Jan 2014",
+        "to": "Jan 2015",
+        "where": "Sterling, VA"
+      }
+    ]
+  },
+  {
+    "title": "User Interface Architect",
+    "company": "IBM",
+    "from": "Dec 2009",
+    "to": "Jan 2014",
+    "where": "Chantilly, VA",
+    "projects": [
+      {
+        "title": "Codes, Latch, and GEO Latch",
+        "details": [
+          "Developed user interface for Latch family of multimedia forensic tools.",
+          "Developed metadata timelines to visualize data plotted along time",
+          "Developed image editing and annotating tool for Latch",
+          "Conducted code reviews, developed best user interface best practices and coding standards.",
+          "Held brown bag lunches on the topics of JavaScript and Usability."
+        ],
+        "from": "Dec 2009",
+        "to": "Jan 2014",
+        "where": "Chantilly, VA"
+      }
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "PowerTest",
+    "from": "Feb 2007",
+    "to": "May 2010",
+    "where": "Reston, VA",
+    "projects": [
+      {
+        "title": "IP Performance Testing Tool",
+        "details": [
+          "Developed platform for testing Customer Premises Equipment and Optical Network Terminals",
+          "Tool was instrumental in identifying performance problems with the Verizon network"
+        ],
+        "from": "Feb 2007 (est)",
+        "to": "May 2010",
+        "where": "Reston, VA"
+      },
+      {
+        "title": "WASP Inventory Management User Interface",
+        "details": [
+          "Developed Verizon laboratory equipment management user interface for WASP software."
+        ],
+        "from": "Feb 2010",
+        "to": "March 2010",
+        "where": "Reston, VA"
+      }
+    ]
+  }
+]

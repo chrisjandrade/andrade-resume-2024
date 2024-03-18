@@ -1,0 +1,22 @@
+.Education {
+  padding: 12px 12px;
+  padding-bottom: 0;
+  
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin-top: 0px;
+  }
+
+  .Container {
+    margin-bottom: 14px;
+    font-size: 13px;
+    padding-bottom: 8px;
+
+    i { margin-right: 8px; }
+  }
+
+  .Container:nth-last-child(n) {
+    margin-bottom: 0;
+  }
+}

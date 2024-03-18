@@ -1,0 +1,14 @@
+[
+  { "title": "JavaScript", "score": 5 },
+  { "title": "Typescript", "score": 4.5 },
+  { "title": "React", "score": 4 },
+  { "title": "Angular", "score": 5 },
+  { "title": "D3", "score": 4 },
+  { "title": "HTML", "score": 4.5 },
+  { "title": "CSS", "score": 4.5 },
+  { "title": "Java", "score": 3 },
+  { "title": "SQL", "score": 3 },
+  { "title": "Mongo", "score": 3 },
+  { "title": "Linux", "score": 3 },
+  { "title": "Elastic Search", "score": 3 }
+]

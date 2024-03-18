@@ -1,0 +1,22 @@
+[
+  {
+    "href": "mailto: chrisjandrade@gmail.com",
+    "icon": "fa fa-envelope",
+    "text": "chrisjandrade (a) gmail.com"
+  },
+  {
+    "href": "https://www.linkedin.com/in/chrisjandrade/",
+    "icon": "fa fa-linkedin-square",
+    "text": "linkedin.com/in/chrisjandrade/"
+  },
+  {
+    "href": "https://github.com/chrisjandrade",
+    "icon": "fa fa-github",
+    "text": "github.com/chrisjandrade"
+  },
+  {
+    "href": "https://dev.to/chrisjandrade",
+    "icon": "fa fa-rss",
+    "text": "dev.to/chrisjandrade"
+  }
+]
