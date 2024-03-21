@@ -5,30 +5,35 @@ import classNames from 'classnames';
 import Education from 'components/education/Education';
 import Links from 'components/links/Links';
 import Skills from 'components/skills/Skills';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { retrieveInfo } from 'reducers/infoSlice';
 import styles from './Sidebar.module.scss';
 
 export default function Sidebar() {
 
-  const dispatch = useDispatch();
+  const dispatch = useDispatch(),
+    { name, title, focus } = useSelector(state => state.info.data),
+    isMobile = useMediaQuery('only screen and (max-width: 480px)'),
+    [mobile, setMobile] = useState(false);
 
-  useEffect(() => void(dispatch(retrieveInfo())), [dispatch]);
-  const { name, title, focus } = useSelector(state => state.info.data);
+  useEffect(() => {
+    dispatch(retrieveInfo()); 
+    setMobile(isMobile);
+  }, [dispatch, isMobile]);
 
   const sidebarCls = classNames({
     [styles.Sidebar]: true,
-    [styles.SidebarMobile]: useMediaQuery('only screen and (max-width: 480px)')
+    [styles.SidebarMobile]: mobile
   });
 
   return (
-    <div className={ sidebarCls }>
+    <div className={sidebarCls}>
       <div className={styles.Header}>
-        <h1>{ name }</h1>
+        <h1>{name}</h1>
         <h2>
-          { title }<br />
-          <em>{ focus }</em>
+          {title}<br />
+          <em>{focus}</em>
         </h2>
         <Links />
       </div>
