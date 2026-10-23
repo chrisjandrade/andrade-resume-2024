@@ -1,8 +1,11 @@
 [
   { "title": "JavaScript", "score": 5 },
   { "title": "Typescript", "score": 4.5 },
-  { "title": "React", "score": 4 },
-  { "title": "Angular", "score": 5 },
+  { "title": "React", "score": 5 },
+  { "title": "Angular", "score": 4 },
+  { "title": "AngularJS", "score": 3.5 },
+  { "title": "Cesium", "score": 4 },
+  { "title": "Leaflet", "score": 4 },
   { "title": "D3", "score": 4 },
   { "title": "HTML", "score": 4.5 },
   { "title": "CSS", "score": 4.5 },

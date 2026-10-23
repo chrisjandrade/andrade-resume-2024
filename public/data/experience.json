@@ -9,7 +9,14 @@
       {
         "title": "Spectral",
         "details": [
-          "UI Developer Supporting Spectral"
+          "UI Developer for Spectral User Interface using React.",
+          "Created Geo-Spatial visualization framework with Cesium and React:",
+          "2D and 3D visualizations of Geo Data with MIL-STD-2525E markers.",
+          "Developed Real-Time streaming of 'Live' data with Server-Sent Events and Shared Web Workers.",
+          "Developed alerting and notification system.",
+          "Performance tuning to: optimize memory usage, (LOCAL storage, OPFS, IndexedDB).",
+          "Optimized application responsiveness taylored to CPU capabilities.",
+          "Developed generic querying component driven by JSON schemas."
         ],
         "from": "Mar 2024",
         "to": "Present",
